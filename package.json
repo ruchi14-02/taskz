@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "main":"server.js",
+    "script":{
+      "start":"node server.js"
+    }
+  },
+  "engine":{
+    "node":"^16.7.0",
+    "npm":"^8.2.0"
+  }
+}
+
